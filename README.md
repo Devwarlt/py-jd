@@ -1,5 +1,5 @@
-# PYJD: Python JSON Descriptor [![license-badge]][license] [![size-badge]][latest] [![visitors-badge]][latest]
-PYJD is an algorithm written in Python that iterates through all JSON object properties using [Tree Traverse technique](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) and describes distinct information in three different patterns for easy diff check.
+# PY-JD: Python JSON Descriptor [![license-badge]][license] [![size-badge]][latest] [![visitors-badge]][latest]
+PY-JD is an algorithm written in Python that iterates through all JSON object properties using [Tree Traverse technique](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) and describes distinct information in three different patterns for easy diff check.
 
 ## Languages
 ![python-language-badge]
